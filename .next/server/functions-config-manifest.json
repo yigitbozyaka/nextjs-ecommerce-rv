@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/upload/rv": {},
+    "/admin/add-rvs": {},
+    "/admin/featured-rvs": {},
+    "/admin/edit-rvs": {}
+  }
+}
